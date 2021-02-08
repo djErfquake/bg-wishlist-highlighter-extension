@@ -5,3 +5,5 @@ Browser extension that automatically highlights all board games on your Boardgam
 - [ ] load on feedly properly
 - [ ] highlight owned games as well
 - [ ] put it on the store
+- [ ] icon
+- [ ] look pretty
